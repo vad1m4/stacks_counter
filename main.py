@@ -8,7 +8,7 @@ root.title("Stack counter")
 root.resizable(False, False)
 
 # icon
-icon = PhotoImage(file="warped_fungus.png")
+icon = PhotoImage(file="icon.png")
 root.iconphoto(True, icon)
 
 # frame and scrollbar
