@@ -5,5 +5,5 @@ It converts a full number into stacks + leftovers with a database so that your l
 Pretty straightforward, load up your main.py and type in something like "100 wooden planks" to get a result of "64 + 36 Wooden Planks"
 
 *gotta give credit where credit's due:* 
-*thank you slicee☕#2270 for inspiration fro the design*
+*thank you slicee☕#2270 for inspiration for the design*
 *thank you DragonBorn#2861 for helping me throughout the whole project*
